@@ -1,0 +1,7 @@
+[package]
+name = "ternary-watermark"
+version = "0.1.0"
+edition = "2021"
+description = "Ternary watermarking for neural model provenance. Embed {-1,0,+1} fingerprints in weight matrices that survive quantization. Verify model ownership without full weight access."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/ternary-watermark"
